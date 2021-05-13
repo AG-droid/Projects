@@ -1,5 +1,5 @@
 # Author - Anmol Goyal
-# MiniProject - Jurrasic Park Game
+# MiniProject - Dino World
 
 
 import random
